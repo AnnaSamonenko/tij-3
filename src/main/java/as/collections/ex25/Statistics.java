@@ -1,4 +1,4 @@
-package task25;
+package as.collections.ex25;
 
 //: c11:Statistics.java
 // Simple demonstration of HashMap.

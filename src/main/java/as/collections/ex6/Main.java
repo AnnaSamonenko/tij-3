@@ -1,7 +1,7 @@
-package task6;
+package as.collections.ex6;
 
-import task6.util.Mouse;
-import task6.util.MouseList;
+import as.collections.ex6.util.Mouse;
+import as.collections.ex6.util.MouseList;
 
 /**
  * Demonstrate that you cant add anything but a Mouse to a MouseList. .

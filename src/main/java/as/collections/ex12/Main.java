@@ -1,6 +1,6 @@
-package task12;
+package as.collections.ex12;
 
-import task12.utils.MyStringArray;
+import as.collections.ex12.utils.MyStringArray;
 
 import java.util.ArrayList;
 import java.util.List;

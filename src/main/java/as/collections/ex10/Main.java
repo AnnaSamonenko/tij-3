@@ -1,4 +1,4 @@
-package task10;
+package as.collections.ex10;
 
 import java.util.*;
 

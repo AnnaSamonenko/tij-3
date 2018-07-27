@@ -1,4 +1,4 @@
-package task8.utils;
+package as.collections.ex8.utils;
 
 public class Cat {
     private int catNumber;

@@ -1,4 +1,4 @@
-package task24;
+package as.collections.ex24;
 
 import java.util.LinkedList;
 

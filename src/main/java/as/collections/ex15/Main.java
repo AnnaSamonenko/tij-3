@@ -1,4 +1,4 @@
-package task15;
+package as.collections.ex15;
 
 import java.util.*;
 

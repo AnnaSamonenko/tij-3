@@ -1,4 +1,4 @@
-package task4;
+package as.collections.ex4;
 
 import java.util.HashMap;
 import java.util.Iterator;

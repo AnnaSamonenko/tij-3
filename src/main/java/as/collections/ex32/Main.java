@@ -1,4 +1,4 @@
-package task32;
+package as.collections.ex32;
 
 /**
  * Using SlowMap.java for inspiration, create a SlowSet.

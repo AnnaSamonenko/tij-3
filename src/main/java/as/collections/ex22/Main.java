@@ -1,4 +1,4 @@
-package task22;
+package as.collections.ex22;
 
 import java.util.ArrayList;
 import java.util.Arrays;

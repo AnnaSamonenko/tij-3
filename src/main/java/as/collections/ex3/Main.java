@@ -1,4 +1,4 @@
-package task3;
+package as.collections.ex3;
 
 import java.util.ArrayList;
 import java.util.Iterator;

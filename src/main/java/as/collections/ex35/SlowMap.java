@@ -1,6 +1,6 @@
-package task35;
+package as.collections.ex35;
 
-import task32.MPair;
+import as.collections.ex32.MPair;
 
 import java.util.*;
 

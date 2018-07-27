@@ -1,4 +1,4 @@
-package task32;
+package as.collections.ex32;
 
 import java.util.*;
 

@@ -1,6 +1,6 @@
-package task13;
+package as.collections.ex13;
 
-import task13.utils.MyIntegerArray;
+import as.collections.ex13.utils.MyIntegerArray;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package task3;
+package as.collections.ex3;
 
 public class Gerbil {
     private int gerbilNumber;

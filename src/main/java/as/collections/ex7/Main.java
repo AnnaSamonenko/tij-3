@@ -1,7 +1,7 @@
-package task7;
+package as.collections.ex7;
 
-import task7.util.Mouse;
-import task7.util.MouseList;
+import as.collections.ex7.util.Mouse;
+import as.collections.ex7.util.MouseList;
 
 /**
  * Modify MouseList.java so that it inherits from ArrayList instead of using composition.
@@ -15,6 +15,5 @@ public class Main {
         Mouse mouse2 = new Mouse(2);
         mouseList.addMouse(mouse2);
         mouseList.addMouse(mouse5);
-
     }
 }

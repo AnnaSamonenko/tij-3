@@ -1,5 +1,4 @@
-package task35;
-
+package as.collections.ex35;
 /**
  * Implement the rest of the Map interface for SlowMap.
  */

@@ -1,9 +1,4 @@
-//: com:bruceeckel:util:Arrays2.java
-// A supplement to java.util.Arrays, to provide additional
-// useful functionality when working with arrays. Allows
-// any array to be converted to a String, and to be filled
-// via a user-defined "generator" object.
-package task1.util;
+package as.collections.ex1.util;
 
 import java.util.*;
 

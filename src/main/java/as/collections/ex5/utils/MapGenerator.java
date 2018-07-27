@@ -1,6 +1,5 @@
-//: com:bruceeckel:util:MapGenerator.java
-package task5.utils;
+package as.collections.ex5.utils;
 
 public interface MapGenerator {
     Pair next();
-} ///:~
+}

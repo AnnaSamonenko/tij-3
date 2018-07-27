@@ -1,4 +1,4 @@
-package task6.util;
+package as.collections.ex6.util;
 
 public class Mouse {
     private int mouseNumber;

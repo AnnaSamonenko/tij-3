@@ -1,4 +1,4 @@
-package task5.utils;
+package as.collections.ex5.utils;
 
 public class CountryCapitals {
     public static final String[][] pairs = {

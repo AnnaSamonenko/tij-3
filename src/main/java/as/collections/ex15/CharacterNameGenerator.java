@@ -1,6 +1,6 @@
-package task15;
+package as.collections.ex15;
 
-import task1.util.Generator;
+import as.collections.ex1.util.Generator;
 
 import java.util.*;
 

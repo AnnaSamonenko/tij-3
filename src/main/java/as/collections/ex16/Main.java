@@ -1,4 +1,4 @@
-package task16;
+package as.collections.ex16;
 
 //TODO
 

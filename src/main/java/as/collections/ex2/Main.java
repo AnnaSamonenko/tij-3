@@ -1,4 +1,4 @@
-package task2;
+package as.collections.ex2;
 
 import java.util.ArrayList;
 import java.util.List;

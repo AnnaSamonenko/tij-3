@@ -1,6 +1,4 @@
-//: com:bruceeckel:util:Generator.java
-
-package task1.util;
+package as.collections.ex1.util;
 
 public interface Generator {
     Object next();

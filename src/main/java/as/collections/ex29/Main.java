@@ -1,4 +1,4 @@
-package task29;
+package as.collections.ex29;
 
 //TODO
 

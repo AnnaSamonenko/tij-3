@@ -1,4 +1,4 @@
-package task30;
+package as.collections.ex30;
 
 import java.util.LinkedHashMap;
 import java.util.Map;

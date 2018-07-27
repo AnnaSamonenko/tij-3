@@ -1,6 +1,6 @@
-package task5;
+package as.collections.ex5;
 
-import task5.utils.Collections2;
+import as.collections.ex5.utils.Collections2;
 
 import java.util.Collections;
 import java.util.LinkedList;

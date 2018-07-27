@@ -1,4 +1,4 @@
-package task13.utils;
+package as.collections.ex13.utils;
 
 import java.util.Arrays;
 

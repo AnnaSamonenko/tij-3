@@ -1,6 +1,4 @@
-package task32;
-
-import task5.utils.Collections2;
+package as.collections.ex32;
 
 import java.util.*;
 

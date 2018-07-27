@@ -1,6 +1,6 @@
-package task11;
+package as.collections.ex11;
 
-import task11.util.MyGenericArrayList;
+import as.collections.ex11.util.MyGenericArrayList;
 
 /**
  * Create a new type of container that uses a private ArrayList to hold the objects.

@@ -1,9 +1,7 @@
-//: com:bruceeckel:util:Collections2.java
-// To fill any type of container using a generator object.
-package task5.utils;
+package as.collections.ex5.utils;
 
-import task1.util.Arrays2;
-import task1.util.Generator;
+import as.collections.ex1.util.Arrays2;
+import as.collections.ex1.util.Generator;
 
 import java.util.*;
 
@@ -100,9 +98,8 @@ public class Collections2 {
         }
     }
 
-    // Use a predefined dataset:
     public static StringGenerator countries =
             new StringGenerator(CountryCapitals.pairs, 0);
     public static StringGenerator capitals =
             new StringGenerator(CountryCapitals.pairs, 1);
-} ///:~
+}

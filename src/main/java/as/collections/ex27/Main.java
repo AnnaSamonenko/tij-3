@@ -1,6 +1,6 @@
-package task27;
+package as.collections.ex27;
 
-import task5.utils.Collections2;
+import as.collections.ex5.utils.Collections2;
 
 import java.util.Collection;
 import java.util.HashSet;

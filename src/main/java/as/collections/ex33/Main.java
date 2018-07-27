@@ -1,4 +1,4 @@
-package task33;
+package as.collections.ex33;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

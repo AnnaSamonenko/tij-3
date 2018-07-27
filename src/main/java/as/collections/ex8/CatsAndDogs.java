@@ -1,7 +1,7 @@
-package task8;
+package as.collections.ex8;
 
-import task8.utils.Cat;
-import task8.utils.CatList;
+import as.collections.ex8.utils.Cat;
+import as.collections.ex8.utils.CatList;
 
 /**
  * Repair CatsAndDogs.java by creating a Cats container (utilizing ArrayList)

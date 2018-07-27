@@ -1,4 +1,4 @@
-package task24;
+package as.collections.ex24;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;

@@ -1,4 +1,4 @@
-package task25;
+package as.collections.ex25;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package task30;
+package as.collections.ex30;
 
 public class Name {
 

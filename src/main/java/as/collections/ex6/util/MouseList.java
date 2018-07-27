@@ -1,7 +1,4 @@
-package task6.util;
-
-//: c11:MouseList.java
-// A type-conscious List.
+package as.collections.ex6.util;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package task8.utils;
+package as.collections.ex8.utils;
 
 import java.util.ArrayList;
 import java.util.List;

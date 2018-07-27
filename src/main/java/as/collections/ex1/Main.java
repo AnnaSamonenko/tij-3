@@ -1,6 +1,6 @@
-package task1;
+package as.collections.ex1;
 
-import task1.util.Arrays2;
+import as.collections.ex1.util.Arrays2;
 
 /**
  * Create an array of double and fill( ) it using RandDoubleGenerator. Print the results.

@@ -1,4 +1,4 @@
-package task9;
+package as.collections.ex9;
 
 import java.util.*;
 

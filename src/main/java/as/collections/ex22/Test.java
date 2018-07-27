@@ -1,4 +1,4 @@
-package task22;
+package as.collections.ex22;
 
 public class Test {
 

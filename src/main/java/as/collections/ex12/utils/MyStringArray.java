@@ -1,4 +1,4 @@
-package task12.utils;
+package as.collections.ex12.utils;
 
 import java.util.Arrays;
 
@@ -16,7 +16,7 @@ public class MyStringArray {
 
     public void add(String str) {
         if (size >= actualCapacity) {
-            vector = Arrays.copyOf(vector, size+DEFAULT_CAPACITY);
+            vector = Arrays.copyOf(vector, size + DEFAULT_CAPACITY);
         } else {
             vector[size] = str;
         }
