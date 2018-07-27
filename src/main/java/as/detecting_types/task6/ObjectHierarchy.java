@@ -17,13 +17,13 @@ public class ObjectHierarchy {
 
 
     public static void main(String[] args) {
-        printClassHierachy(C.class);
+        printClassHierarchy(C.class);
     }
 
-    static void printClassHierachy(Class clazz) {
+    static void printClassHierarchy(Class clazz) {
         if (clazz.getSuperclass().equals(Object.class))
             return;
-        printClassHierachy(clazz.getSuperclass());
+        printClassHierarchy(clazz.getSuperclass());
         System.out.println(clazz.getSuperclass());
     }
 
