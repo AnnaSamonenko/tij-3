@@ -1,9 +1,8 @@
-package as.detecting_types.ex8;
+package as.detecting_types.ex9;
 
 /**
- * In ToyTest.java, comment out Toy’s default constructor and explain what happens.
+ * Incorporate a new kind of interface into ToyTest.java and verify that it is detected and displayed properly.
  */
-// InstantiationException thrown because newInstance() require default constructor
 
 interface HasBatteries {
 }
@@ -14,19 +13,23 @@ interface Waterproof {
 interface ShootsThings {
 }
 
+interface EyesLasers {
+
+}
+
 class Toy {
     // Comment out the following default
     // constructor to see
     // NoSuchMethodError from (*1*)
-//    Toy() {
-//    }
+    Toy() {
+    }
 
     Toy(int i) {
     }
 }
 
 class FancyToy extends Toy implements HasBatteries,
-        Waterproof, ShootsThings {
+        Waterproof, ShootsThings, EyesLasers {
     FancyToy() {
         super(1);
     }
@@ -36,7 +39,7 @@ public class ToyTest {
     public static void main(String[] args) throws Exception {
         Class c = null;
         try {
-            c = Class.forName("as.detecting_types.ex8.FancyToy");
+            c = Class.forName("as.detecting_types.ex9.ToyTest");
         } catch (ClassNotFoundException e) {
             System.err.println("Can't find FancyToy");
             throw e;
@@ -58,6 +61,8 @@ public class ToyTest {
             throw e;
         }
         printInfo(o.getClass());
+
+
     }
 
     static void printInfo(Class cc) {
