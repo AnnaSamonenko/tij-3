@@ -39,7 +39,7 @@ public class ToyTest {
     public static void main(String[] args) throws Exception {
         Class c = null;
         try {
-            c = Class.forName("as.detecting_types.ex9.ToyTest");
+            c = Class.forName("as.detecting_types.ex9.FancyToy");
         } catch (ClassNotFoundException e) {
             System.err.println("Can't find FancyToy");
             throw e;
@@ -60,9 +60,7 @@ public class ToyTest {
             System.err.println("Cannot access");
             throw e;
         }
-        printInfo(o.getClass());
-
-
+        //printInfo(o.getClass());
     }
 
     static void printInfo(Class cc) {
