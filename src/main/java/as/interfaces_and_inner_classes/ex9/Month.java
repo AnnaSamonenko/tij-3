@@ -34,5 +34,5 @@ public final class Month {
     public final static Month number(int ord) {
         return month[ord - 1];
     }
-    
+
 }
