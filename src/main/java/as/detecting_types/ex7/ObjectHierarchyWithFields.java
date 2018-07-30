@@ -3,7 +3,7 @@ package as.detecting_types.ex7;
 import java.lang.reflect.Field;
 
 /**
- * Modify Exercise 6 so that it uses Class.getDeclaredFields( ) to also display information about the fields in a class.
+ * Modify Exercise 6 so that it uses Class2.getDeclaredFields( ) to also display information about the fields in a class.
  */
 
 class A {

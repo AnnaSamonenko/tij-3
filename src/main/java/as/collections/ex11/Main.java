@@ -4,7 +4,7 @@ import as.collections.ex11.util.MyGenericArrayList;
 
 /**
  * Create a new type of container that uses a private ArrayList to hold the objects.
- * Using a Class reference, capture the type of the first object you put in it,
+ * Using a Class2 reference, capture the type of the first object you put in it,
  * and then allow the user to insert objects of only that type from then on.
  */
 public class Main {

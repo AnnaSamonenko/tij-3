@@ -5,7 +5,7 @@ package as.detecting_types.ex4;
 /**
  * Modify SweetShop.java so that each type of object creation is controlled by a command-line argument.
  * That is, if your command line is “java SweetShop Candy,” then only the Candy object is created.
- * Notice how you can control which Class objects are loaded via the command-line argument.
+ * Notice how you can control which Class2 objects are loaded via the command-line argument.
  */
 
 class Candy {
@@ -36,7 +36,7 @@ public class SweetShop {
         } catch (ClassNotFoundException e) {
             System.out.println("Couldn't find Gum");
         }
-        System.out.println("After Class.forName(\"Gum\")");
+        System.out.println("After Class2.forName(\"Gum\")");
         new Cookie();
         System.out.println("After creating Cookie");
     }

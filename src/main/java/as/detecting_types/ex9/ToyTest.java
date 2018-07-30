@@ -65,7 +65,7 @@ public class ToyTest {
 
     static void printInfo(Class cc) {
         System.out.println(
-                "Class name: " + cc.getName() +
+                "Class2 name: " + cc.getName() +
                         " is interface? [" +
                         cc.isInterface() + "]");
     }
