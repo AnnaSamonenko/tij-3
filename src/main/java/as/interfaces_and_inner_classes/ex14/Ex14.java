@@ -18,6 +18,5 @@ public class Ex14 {
                 System.out.println("baida");
             }
         };
-        //return (IFirst) new LocalClass();
     }
 }
