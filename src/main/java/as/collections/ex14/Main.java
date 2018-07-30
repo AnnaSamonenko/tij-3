@@ -3,7 +3,7 @@ package as.collections.ex14;
 import as.collections.ex1.util.Arrays2;
 
 /**
- * Using the utilities in com.bruceeckel.util, create an array of each primitive type and of String,
+ * Using the utilities in com.bruceeckel.util1, create an array of each primitive type and of String,
  * then fill each array by using an appropriate generator,
  * and print each array using the appropriate print( ) method. .
  */

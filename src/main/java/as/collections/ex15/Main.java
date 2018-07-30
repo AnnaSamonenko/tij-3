@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * Create a generator that produces character names from your favorite movies
  * (you can use Snow White or Star Wars as a fallback) and loops around to the beginning when it runs out of names.
- * Use the utilities in com.bruceeckel.util to fill an array, an ArrayList,
+ * Use the utilities in com.bruceeckel.util1 to fill an array, an ArrayList,
  * a LinkedList, and both types of Set, then print each container. .
  */
 public class Main {
