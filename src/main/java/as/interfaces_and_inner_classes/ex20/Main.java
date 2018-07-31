@@ -7,6 +7,7 @@ package as.interfaces_and_inner_classes.ex20;
 public class Main {
 
     public static void main(String[] args) {
+        // creation:
         Ex20.StaticClass staticClass = new Ex20.StaticClass();
         staticClass.print();
     }
