@@ -18,7 +18,6 @@ public class Ex1 {
         List<String> listOfFileLine = new LinkedList<>();
 
         File path = new File(PATH_STR);
-
         try (BufferedReader br = new BufferedReader(new FileReader(path))) {
             String line;
             while ((line = br.readLine()) != null) {
